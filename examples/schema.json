@@ -1,0 +1,9 @@
+{
+  "vendor": "text:0.85",
+  "date": "date",
+  "total": "number:0.01",
+  "currency": "enum",
+  "paid": "bool",
+  "po_number": "exact",
+  "items": "list[text]"
+}

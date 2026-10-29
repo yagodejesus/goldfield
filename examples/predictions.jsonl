@@ -1,0 +1,4 @@
+{"id": "inv-001", "vendor": "ACAI DA PRACA LTDA.", "date": "03/10/2026", "total": "R$ 1.234,56", "currency": "brl", "paid": "sim", "items": ["tapioca", "Açaí 1L"]}
+{"id": "inv-002", "vendor": "Acme Corporation", "date": "Sep 15, 2026", "total": "$89.90", "currency": "USD", "paid": "no", "items": ["licence"]}
+{"id": "inv-003", "vendor": "Northwind Traders", "date": "2026-01-08", "total": 450, "currency": "EUR", "paid": true, "items": ["chai", "tofu"]}
+{"id": "inv-004", "vendor": "Bragança Pesca", "date": "2026-07-20", "total": 3200, "currency": "BRL", "paid": false, "po_number": "PO-0001", "items": []}
